@@ -34,9 +34,10 @@ body {
   right: 2rem !important;
 }
 
-/* .z-0 {
-  z-index: -1 !important;
-} */
+h1 {
+  font-size: 13px;
+}
+
 .card-body {
   --bs-card-spacer-y: 2rem;
   padding-top: 0 !important;

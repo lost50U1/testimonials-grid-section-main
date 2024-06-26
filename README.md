@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/four-card-feature-section-with-tailwind-css-sY50KQqAMO)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/testimonials-grid-section-with-bootstrap-kA0I5KPcri)
 - Live Site URL: [Add live site URL here](https://lost50u1.github.io/testimonials-grid-section-main/)
 
 ## My process
